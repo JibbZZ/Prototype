@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/elinstensson/Desktop/SUVNET22/OOP 2/Designmönster/Prototype design pattern/Prototype design pattern.csproj": {}
+  },
+  "projects": {
+    "/Users/elinstensson/Desktop/SUVNET22/OOP 2/Designmönster/Prototype design pattern/Prototype design pattern.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/elinstensson/Desktop/SUVNET22/OOP 2/Designmönster/Prototype design pattern/Prototype design pattern.csproj",
+        "projectName": "Prototype design pattern",
+        "projectPath": "/Users/elinstensson/Desktop/SUVNET22/OOP 2/Designmönster/Prototype design pattern/Prototype design pattern.csproj",
+        "packagesPath": "/Users/elinstensson/.nuget/packages/",
+        "outputPath": "/Users/elinstensson/Desktop/SUVNET22/OOP 2/Designmönster/Prototype design pattern/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/elinstensson/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
